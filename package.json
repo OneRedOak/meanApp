@@ -1,0 +1,23 @@
+{
+  "name": "meanApp",
+  "version": "0.0.0",
+  "description": "Basic MEAN Web Applicaiton",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OneRedOak/meanApp.git"
+  },
+  "author": "Patrick Ellis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OneRedOak/meanApp/issues"
+  },
+  "homepage": "https://github.com/OneRedOak/meanApp",
+  "dependencies": {
+    "jade": "~1.3.1",
+    "express": "~3.4.4"
+  }
+}
